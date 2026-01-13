@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Can Yaman Fan Cards</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<header>
+  <h1>Can Yaman Fan Cards</h1>
+  <p>Exclusive fan-made membership cards for true supporters</p>
+</header>
+
+<section class="notice">
+  <p>⚠️ This is a fan-made project and is not officially affiliated with Can Yaman.</p>
+</section>
+
+<section class="cards">
+
+  <div class="card classic">
+    <h2>Classic Fan Card</h2>
+    <h3>$500</h3>
+    <p>Official Fan Edition</p>
+    <ul>
+      <li>Simple and elegant design</li>
+      <li>Neutral color palette</li>
+      <li>Minimal glow</li>
+    </ul>
+  </div>
+
+  <div class="card silver">
+    <h2>Silver Fan Card</h2>
+    <h3>$900</h3>
+    <p>Loyal Fan Edition</p>
+    <ul>
+      <li>Silver accents</li>
+      <li>Soft glow effects</li>
+      <li>Stylish typography</li>
+    </ul>
+  </div>
+
+  <div class="card gold">
+    <h2>Gold Fan Card</h2>
+    <h3>$1,500</h3>
+    <p>Premium Fan Edition</p>
+    <ul>
+      <li>Gold detailing</li>
+      <li>Signature displayed</li>
+      <li>Thank-you message</li>
+    </ul>
+  </div>
+
+  <div class="card black">
+    <h2>Black Fan Card</h2>
+    <h3>$2,100</h3>
+    <p>Elite Fan Edition</p>
+    <ul>
+      <li>Matte black background</li>
+      <li>Gold or white accents</li>
+      <li>Exclusive design</li>
+    </ul>
+  </div>
+
+  <div class="card diamond">
+    <h2>Diamond Fan Card</h2>
+    <h3>$3,000</h3>
+    <p>Ultimate Fan Edition</p>
+    <ul>
+      <li>Diamond glow</li>
+      <li>Light particle effects</li>
+      <li>Individually numbered</li>
+    </ul>
+  </div>
+
+</section>
+
+<footer>
+  <p>📧 Contact: ilkercuneytmanagements83@gmail.com</p>
+</footer>
+
+</body>
+</html>
+Initial website upload
